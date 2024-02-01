@@ -11,6 +11,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "@types/node": "^20.11.15",
+    "nodemon": "^3.0.3",
+    "parcel-bundler": "^1.12.5",
+    "prisma": "^5.9.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
   }
 }
